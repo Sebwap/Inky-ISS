@@ -6,3 +6,5 @@ Work with Python, Pillow, Matplotlib and Cartopy
 Use http://api.open-notify.org/ API for live ISS position !
 
 Don't forget to customize font path in source :)
+
+![Image of ISS-inky](https://github.com/Sebwap/Inky-ISS/blob/main/ISS.jpg)
